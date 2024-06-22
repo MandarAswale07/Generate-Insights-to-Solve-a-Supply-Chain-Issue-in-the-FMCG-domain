@@ -1,4 +1,4 @@
-# Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain
+# Generate Insights to Solve a Supply Chain Issue in the FMCG domain
 
 Key Skills: - Supply Chain, POWER BI, ETL, DAX, Excel, Dashboard, KPIs, Power Query
 
